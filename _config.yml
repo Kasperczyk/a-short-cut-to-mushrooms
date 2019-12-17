@@ -1,11 +1,11 @@
 # Site/SEO settings
-email: 
+email: christina.kasperczyk@web.de
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-title: Trophy
-description: 
-url: ""
+title: A Short Cut To Mushrooms
+description: A Short Cut To Mushrooms - Mein Trekking-, Wander- und Kletter-Blog
+url: "https://kasperczyk.github.io/a-short-cut-to-mushrooms/"
 baseurl: ""
 twitter_username: 
 default_img: 
@@ -13,7 +13,7 @@ default_img:
 # Profile settings
 name: 
 profile_img: 
-profile: 
+profile:
 social:
   github: 
 
