@@ -8,8 +8,8 @@ categories:
   - Hüttentour
   - Wandern
 description: Reisebericht Via delle Bocchette 2017
-image: /assets/img/via-delle-bocchette-2017/11.JPG
-image-sm: /assets/img/via-delle-bocchette-2017/11.JPG
+image: assets/img/via-delle-bocchette-2017/11.JPG
+image-sm: assets/img/via-delle-bocchette-2017/11.JPG
 ---
 ### Eckdaten
 **Was:** Dreitägige Hüttentour durch die Brenta<br/>

@@ -9,8 +9,8 @@ categories:
   - Hüttentour
   - Wandern
 description: Reisebericht Allgäuer Höhenweg 2016
-image: /assets/img/allgaeuer-hoehenweg-2016/29.JPG
-image-sm: /assets/img/allgaeuer-hoehenweg-2016/29.JPG
+image: assets/img/allgaeuer-hoehenweg-2016/29.JPG
+image-sm: assets/img/allgaeuer-hoehenweg-2016/29.JPG
 ---
 ### Eckdaten
 **Name:** Allgäuer Höhenweg<br/>

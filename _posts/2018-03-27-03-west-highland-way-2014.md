@@ -6,8 +6,8 @@ categories:
   - Schottland
   - Wandern
 description: Reisebericht West Highland Way 2014
-image: /assets/img/west-highland-way-2014/13.JPG
-image-sm: /assets/img/west-highland-way-2014/13.JPG
+image: assets/img/west-highland-way-2014/13.JPG
+image-sm: assets/img/west-highland-way-2014/13.JPG
 ---
 ### Eckdaten
 **Name:** West Highland Way<br/>
