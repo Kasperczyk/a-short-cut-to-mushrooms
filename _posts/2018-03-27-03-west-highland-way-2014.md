@@ -5,8 +5,8 @@ date: 2018-03-27
 categories:
   - Schottland
 description: Reisebericht West Highland Way 2014
-image: /assets/img/west-highland-way-2014/13.JPG
-image-sm: /assets/img/west-highland-way-2014/13.JPG
+image: /a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/13.JPG
+image-sm: /a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/13.JPG
 ---
 ### Eckdaten
 **Name:** West Highland Way<br/>
@@ -29,7 +29,7 @@ fliegen nach typischen Ryanairmuster los. Leider habe ich im Flugzeug einen Plat
 Fenster sehen kann. Das ist etwas schade, da wir nun doch gutes Wetter haben und man im Landeanflug einen tollen Blick 
 auf Edinburgh gehabt hätte. 
 
-![](/assets/img/west-highland-way-2014/01.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/01.JPG)
 
 Der erste Eindruck von Schottland überrascht. Das Wetter ist um einiges besser als in Deutschland. Es dämmert bereits 
 und wir nehmen den Bus ins Zentrum. Schon auf der Busfahrt sind wir von der Architektur von Edinburgh fasziniert. Wir 
@@ -37,7 +37,7 @@ halten im Zentrum und finden nach kurzer Suche unser Hostel, das sehr hübsch di
 beziehen unser buntes Zimmer (6 er Zimmer mit zwei anderen) und erkunden noch ein bisschen die Stadt, die nun, da wir 
 sie zu Fuß kennen lernen, uns immer mehr gefällt. 
 
-![](/assets/img/west-highland-way-2014/02.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/02.JPG)
 
 Die Architektur ist beeindruckend und etwas verwirrend. Man läuft auf einer Straße und plötzlich öffnet sich der Blick 
 nach unten auf eine weitere Straße, die unter der ersten Straße hindurchführt und mit deren Existenz man überhaupt nicht 
@@ -51,20 +51,20 @@ nicht im Preis enthalten war, und laufen dann durch die Stadt, vorbei an Dudelsa
 japanischen Touristen. Die Stadt ist auch bei Tageslicht wunderschön. Der Weg führt uns zunächst hoch zur Burg, von der 
 man einen schönen Blick auf die Stadt hat, der allerdings größtenteils von einer Tribüne versperrt ist.
 
-![](/assets/img/west-highland-way-2014/03.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/03.JPG)
 
 Für den Eintritt in die Burg sind wir allerdings zu geizig und laufen daher bald weiter kreuz und quer durch die Stadt 
 und schließlich auf den Carlton Hill, auf dem viele Denkmäler zu besichtigen sind. Von hier haben wir wieder einen 
 tollen Blick auf die Stadt, den Arthur’s Seat  und sogar das Meer.
 
-![](/assets/img/west-highland-way-2014/04.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/04.JPG)
 
 Nach dem Carlton Hill geht es zum sehr gotisch aussehenden Scotts Monument und danach kurz ins schottische 
 Nationalmuseum. Hier verbringen wir allerdings nicht viel Zeit. Unter anderem ist das Schaf Dolly in ausgestopfter Form 
 zu sehen. Wir essen in einen Pub zu Mittag (Veggieburger und helles Ale) und laufen danach zum Fuße des Arthur’s Seat, 
 wo wir uns die unerwartete schottische Sonne legen. 
 
-![](/assets/img/west-highland-way-2014/05.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/05.JPG)
 
 Danach treffen wir Phillip, der uns durch verschiedene Pubs und einen Biergarten führt und uns die schottischen 
 Gepflogenheiten und das schottische Bier näherbringt. Bislang hatten wir zum Beispiel immer brav an roten Ampeln 
@@ -97,7 +97,7 @@ ersten Eindruck, denn wir fahren vom Busbahnhof direkt weiter nach Milngavie, ei
 Highland Way aus losgeht. Wir laufen durch die beschauliche Fußgängerzone und machen ein Foto vor dem Obelisken, der den 
 offiziellen Startpunkt des Weges markiert.
 
-![](/assets/img/west-highland-way-2014/06.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/06.JPG)
 
 Schnell wird deutlich, dass der West Highland Way ziemlich überlaufen ist. Während wir in Irland oft den ganzen Tag fast 
 allein unterwegs waren oder nur hin und wieder andere Wanderer getroffen haben, werden wir hier andauernd von anderen 
@@ -109,18 +109,18 @@ Weiter geht es durch Wald und Heidelandschaft in Richtung Drymen. Der Weg ist ü
 verläuft aber auch hin und wieder durch schönere Abschnitte und über den ersten schottischen Hügel, der einen winzigen 
 Vorgeschmack auf die richtigen Highlands gibt.
 
-![](/assets/img/west-highland-way-2014/07.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/07.JPG)
 
 Die Berge kommen immer näher und gegen Ende der Wanderung sehen wir im Tal zum ersten Mal Loch Lomond, der See, an dem 
 wir in den nächsten Tagen entlang wandern werden.
 
-![](/assets/img/west-highland-way-2014/08.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/08.JPG)
 
 Wir erreichen Drymen  und finden direkt am Ortseingang ein Hostel. Es heißt Kip in the Kirk und ist eine alte umgebaute 
 Kirche. 
 
-![](/assets/img/west-highland-way-2014/09.JPG)
-![](/assets/img/west-highland-way-2014/10.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/09.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/10.JPG)
 
 Als wir ankommen, sind die Besitzer des Hostels nicht da, also setzen wir uns vor die Tür und warten. Nach ungefähr 
 einer halben Stunde kommen die Besitzer und das Hostel hat zum Glück noch etwas frei. Wir bekommen erst mal eine Tasse 
@@ -148,23 +148,23 @@ mit Hut und einer Engländerin, laufen wir los und zunächst geht es recht eint�
 Dann laufen wir in Richtung des Conic Hills, einem Hügel über dem Loch Lomond, der auch wirklich schon ziemlich nach 
 Highlands aussieht. Tatsächlich begegnen wir hier auch unserem ersten und einzigen Highlandrind der Reise.
 
-![](/assets/img/west-highland-way-2014/11.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/11.JPG)
 
 Es steht sehr beeindruckend mitten auf dem Weg. Wer mich kennt, wird wissen, dass ich versucht habe, es zu streicheln. 
 Allerdings senkt es sofort bedrohlich seine Hörner, und ich beschließe dann doch lieber einen Bogen zu machen. Oben auf 
 dem Conic Hill angekommen haben wir eine tolle Aussicht auf Loch Lomond und die umliegenden Hügel. 
 
-![](/assets/img/west-highland-way-2014/12.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/12.JPG)
 
 Ein alter Schotte erklärt uns, was wir in der Ferne sehen können, unter anderem Stirling und das dort stehende Wallace 
 Monument. Nach dem Abstieg erreichen wir endlich das Loch und seine bonnie bonnie banks. Fortan laufen wir in einem 
 stetigen auf und ab am Ufer entlang bis nach Rowardennan.
 
-![](/assets/img/west-highland-way-2014/13.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/13.JPG)
 
 Das dortige Hostel ist wunderschön (zumindest von außen) und liegt direkt am Seeufer mit eigenem Anlegesteg.
 
-![](/assets/img/west-highland-way-2014/14.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/14.JPG)
 
 Leider sind die Zimmer hier nach Männern und Frauen aufgeteilt, sodass ich mit fünf fremden anderen Frauen "allein" in 
 einem Zimmer schlafe. Das Hostel bietet ein 3-Gänge Menü an, dass wir nach dem kargen Essen gestern auch in Anspruch 
@@ -184,12 +184,12 @@ Almkühen der Alpen, denen ich bisher begegnet bin, scheinen die schottische Kü
 Wir stehen früh auf, denn heute haben wir eine lange 32 km Etappe vor uns. Ich bin als erster aufbruchsbereit und 
 genieße auf dem Anlegesteg noch die morgenliche Stille über dem See. 
 
-![](/assets/img/west-highland-way-2014/15.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/15.JPG)
 
 Wir brechen schließlich auf und laufen ähnlich wie am vorherigen Tag am See entlang. Der Weg geht sehr hübsch immer am 
 Loch entlang durch den Wald auf schmalen Pfaden auf und ab. Fast ständig haben wir zur Linken den See im Blick.
 
-![](/assets/img/west-highland-way-2014/16.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/16.JPG)
 
 Nach ungefähr einem Drittel der Strecke kommen wir in Insversnaid an. Dort treffen wir die Entscheidung, nicht 
 gemeinsam weiter zu laufen, da es deutlich wird, dass wir die Etappe in dem bisherigen Tempo nicht schaffen würden. 
@@ -198,7 +198,7 @@ Bus fahren wollen. Ich erhöhe das Tempo und beschließe meine eigenen Grenzen e
 größtenteils immer am Seeufer entlang und wird dennoch recht anspruchsvoll. Es geht viel auf und ab und des Öfteren muss 
 man über Felsen und Wurzeln steigen. 
 
-![](/assets/img/west-highland-way-2014/17.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/17.JPG)
 
 Der Weg hier ist wirklich wunderschön und das Wetter ist toll. Ich überlege, ob ich eine Pause machen und ein Bad im See 
 nehmen soll, entscheide mich aber dagegen, weil ich denke, dass ich ein bisschen unter Zeitdruck stehe, da ich heute 10 
@@ -207,14 +207,14 @@ an Rob Roys Höhle vorbei, zu der man über einige Felsen klettern muss. Die Hö
 es sich nicht um eine richtige Höhle handelt, sondern vielmehr um einen Felsspalt. Als ich den See schließlich hinter 
 mir lasse, fangen so langsam meine Füße an zu
 
-![](/assets/img/west-highland-way-2014/18.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/18.JPG)
 
 Schließlich treffe ich in Inveranan den Schotten mit Hut wieder. Nachdem ich eine Weile denke, mich verlaufen zu haben 
 und ein Stück des Weges zurück laufe, treffe ich ihn und er klärt mich auf, dass ich doch auf dem richtigen Weg bin. Wir 
 laufen ein Stück des Weges zusammen und unterhalten uns ein bisschen. Dann lass ich ihn hinter mir und überhole 
 schließlich Christian, mit dem wir später noch im Pub sein werden. Der Weg verlässt das Loch und führt nun in die Hügel.
 
-![](/assets/img/west-highland-way-2014/19.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/19.JPG)
 
 Vielleicht liegt es an meinen schmerzenden Füßen, aber trotz Hügel finde ich den Weg recht langweilig. Keine 
 Waldautobahn, eine Hügelautobahn. Die 30 Kilometer ziehen sich, ich habe keine Lust mehr und meine Füße tun immer mehr 
@@ -225,7 +225,7 @@ anderen schon längst da sind. Er geht nicht dran, daher suche ich das Hostel au
 dann auch ohne mich zu verlaufen. Crianlarich ist zwar größer als Rowardennan und Drymen aber immer noch sehr 
 überschaubar.
 
-![](/assets/img/west-highland-way-2014/20.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/20.JPG)
 
 Am Hostel treffe ich auf Nadine, die heute mit dem Bus angekommen ist. Erstaunt erfahre ich, dass die anderen noch nicht 
 da sind. Ich war tatsächlich schneller zu Fuß als die anderen mit dem Bus. Nadine und ich tauschen draußen auf der Bank 
@@ -252,20 +252,20 @@ mit dem Bus. Wir laufen los und zunächst geht es relativ lange durch Waldland. 
 kommen wir allmählich in die höheren Highlands. Obwohl wir dem groben Verlauf einer großen Autostraße folgen, werden die 
 Ausblicke auf die Berge immer beeindruckender. Je weiter wir kommen, desto höher ragen sie zu allen Seiten auf.
 
-![](/assets/img/west-highland-way-2014/21.JPG)
-![](/assets/img/west-highland-way-2014/22.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/21.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/22.JPG)
 
 Im Laufe des Tages geht es mir immer besser. Es war wohl doch mehr Kater als Grippe. Wir kommen im Hostel des winzigen 
 Dorfes Bridge of Orchy an und treffen wieder auf Jochen. Das Hostel ist das alte Bahnhofsgebäude und liegt daher direkt 
 am Bahnsteig. Dies ist irgendwie gewöhnungsbedürftig hat aber auch seinen ganz eigenen Charme.
 
-![](/assets/img/west-highland-way-2014/23.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/23.JPG)
 
 Unterwegs hatten wir in Tyndrum Nudeln gekauft, aber im Hostel gibt es untypischerweise keine Küche, sodass wir das 
 Ganze noch eine Weile mit uns rumschleppen müssen. Das Zimmer im Hostel ist urig, mit dreistöckigen Betten. Im 
 Gemeinschaftsraum hängt ein nettes Schild:
 
-![](/assets/img/west-highland-way-2014/24.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/24.JPG)
 
 Wir gehen im Hotel des Dorfes essen (Tagliatelle mit Waldpilzen – sehr gut) und danach zeitig zu Bett. Im Zimmer ist es 
 sehr hell, denn der Bahnsteig ist natürlich beleuchtet. Ab und zu fahren Züge vorbei.
@@ -292,24 +292,24 @@ Ganze miterlebt hatten, dass er wohl mit dem Auto angerast kam, absichtlich in e
 zielstrebig zur Brücke lief und sprang. Offensichtlich ein Selbstmordversuch. Im Regen geht es nun auf einem schmalen 
 Weg hinauf in die Highlands. 
 
-![](/assets/img/west-highland-way-2014/25.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/25.JPG)
 
 Zunächst sehen wir von der Landschaft wenig, denn es ist sehr nebelig. Dann lässt nach nicht allzu langer Zeit der Regen 
 nach und hört schließlich ganz auf. Auf einem kleinen Hügel hat man eine tolle Aussicht über die nebenverhangenen Berge. 
 Wir sehen dabei zu, wie sich der Neben langsam lichtet und immer mehr von der Landschaft preisgibt.
 
-![](/assets/img/west-highland-way-2014/26.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/26.JPG)
 
 Hier werden wir zum ersten Mal so richtig von den berüchtigten Midges überfallen. Die Midges sind so winzig, dass sie 
 einzeln kaum auffallen würden, aber wenn sie kommen, dann kommen sie meist zu hunderten. Nun geht es weiter durch das 
 Moor mit dem sehr tollen Namen Rannoch. Dies ist eine weitläufige und sehr abgelegene Sumpf- und Heidelandschaft.
 
-![](/assets/img/west-highland-way-2014/27.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/27.JPG)
 
 Der Weg bleibt allerdings recht einfach. Er führt über eine breite Militärstraße. Die Aussicht und das Wetter werden 
 allerdings von Minute zu Minute besser. 
 
-![](/assets/img/west-highland-way-2014/28.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/28.JPG)
 
 Irgendwann gibt meine Kamera den Geist auf, was mich sehr ärgert. Peter gibt mir seine Kamera, weil er ohnehin nur 
 Bilder mit seinem Handy macht. Als wir uns dem Etappenziel nähern, wird uns bewusst, dass das von uns gebuchte Hostel 
@@ -318,7 +318,7 @@ nicht auf dem Weg liegt, sondern ca. 10 Meilen weiter in dem geschichtsträchtig
 die Alternative ein recht teures Hotel gewesen. Vor wirklich atemberaubender Kulisse warten wir 1,5 Stunden auf den Bus. 
 In solch einer Landschaft macht jedoch selbst das Warten Spaß.
 
-![](/assets/img/west-highland-way-2014/29.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/29.JPG)
 
 Die Busfahrt selbst kommt uns total unwirklich vor. Die Fahrt geht durch das enge Tal Glen Coe. Links und rechts ragen 
 die Berge auf, die in das wildromantische Licht des nahenden Sonnenuntergangs getaucht sind. Alles sieht irgendwie nicht 
@@ -326,7 +326,7 @@ aus wie die Wirklichkeit, sondern eher wie ein Gemälde oder wie ein Traum. In d
 noch einmal 3 km bis zum Hostel laufen. Dieser Weg kommt uns schrecklich lang vor, denn er führt über eine langweilige 
 Landstraße.
 
-![](/assets/img/west-highland-way-2014/30.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/30.JPG)
 
 Als wir im Hostel ankommen, sagen wir unseren üblichen Satz auf und sind ein wenig verdutzt als der Herbergsvater uns 
 auf Deutsch antwortet.  Wir beziehen unsere Zimmer und wollen danach kochen. Nadine setzt beim Duschen das halbe Hostel 
@@ -347,19 +347,19 @@ recht zahm bergauf. Der Name hatte mich an die Devil’s Ladder aus Irland erinn
 aufregenderem Anstieg gerechnet. Dennoch ist der Pfad nett und vor allem die Aussicht auf die hinter uns liegenden 
 Berge und Täler wunderbar. 
 
-![](/assets/img/west-highland-way-2014/31.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/31.JPG)
 
 Auf dem Weg nach oben fängt es wieder an zu regnen. Den ganzen restlichen Tag erleben wir dann einen ständigen Wechsel 
 aus Nieselregen und trockenem Wetter. Der Regen hält nie lange an und ist auch nicht besonders stark. Dies ist wohl 
 unser Tag mit dem typischsten schottischen Wetter. 
 
-![](/assets/img/west-highland-way-2014/32.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/32.JPG)
 
 Nach dem wir den höchsten Punkt hinter uns gelassen haben, geht es wieder allmählich bergab und schließlich an riesigen 
 undichten Wasserleitungen hinab in die ehemalige Industriestadt Kinlochleven, in der auch heute noch ein Wasserkraftwerk 
 steht.
 
-![](/assets/img/west-highland-way-2014/33.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/33.JPG)
 
 Das Hostel ist recht schnuckelig und hat hübsche Zimmer und ein tolles Bad. Wir teilen unser Zimmer mit Mario, den wir 
 am Vortag schon kennen gelernt haben. Mario ist Amerikaner und bereist gerade die Welt. Er ist mit sehr viel Gepäck 
@@ -372,25 +372,25 @@ Der letzte Tag des Highland Ways. Peter ist erkältet und beschließt, die Etapp
 zunächst steil aus dem Tal heraus und dann über den Bergrücken in einen Talschluss hinein. Rechts und links türmen sich 
 die Berge auf.
 
-![](/assets/img/west-highland-way-2014/34.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/34.JPG)
 
 Der Weg bleibt zahm, ist aber sehr nett und führt hin und wieder über kleinere Bäche. Schließlich gelangen wir in ein 
 ehemaliges, nun abgeholztes Waldstück. Durch den Wald geht es dann allmählich abwärts nach Fort William. Der Ben Nevis, 
 der höchste Berg Schottlands, taucht vor uns auf, sein Gipfel wolkenverhangen. Das Massiv ist schon recht beeindruckend.
 
-![](/assets/img/west-highland-way-2014/35.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/35.JPG)
 
 Die letzten paar Kilometer verlaufen recht eintönig über Walautobahn und Straße in die Stadt, die im Vergleich zu den 
 letzten Dörfern tatsächlich ziemlich groß ist. Wir machen ein Foto vor dem alten offiziellen Ende des Weges und dann mit 
 Peter zusammen auch noch eins im Stadtzentrum vor dem offiziellen Ende.
 
-![](/assets/img/west-highland-way-2014/36.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/36.JPG)
 
 Abends gehen wir (wieder mit Mario) in einem schicken aber günstigen Burgerladen essen. Unser Hostel die Bank Street 
 Lodge in Fort William ist eher ein Hotel als ein Hostel (mit Zimmerservice und allem drum und dran) Hier bleiben wir 
 direkt für den Rest der Reise.
 
-![](/assets/img/west-highland-way-2014/37.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/37.JPG)
 
 ### Tag 10 - Fort William
 Da wir anders als geplant keinen Pausentag eingelegt haben, haben wir nun noch mehr Zeit in Fort William als wir 
@@ -400,13 +400,13 @@ vergleichsweise großen Größe überschaubar. Außerhalb der Stadt befindet sic
 angeboten werden. Sie liegt unterhalb des Ben Nevis und wir machen uns (natürlich zu Fuß) auf den Weg dorthin. Auf 
 halben Weg machen wir einen Abstecher zum Inverlochy Castle, einer recht hübschen Burgruine. 
 
-![](/assets/img/west-highland-way-2014/38.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/38.JPG)
 
 Weiter geht es zur Destillerie. Die Führung beginnt mit einem Imagefilmchen über die Destillerie in Highlanderoptik. 
 Im Anschluss machen wir einen Rundgang durch das Gelände und lernen alles zu den verschiedenen Produktionsschritten von 
 Whiskey.
 
-![](/assets/img/west-highland-way-2014/39.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/39.JPG)
 
 In der Produktionshalle riecht es sehr intensiv nach Malz. Man hat ein wenig das Gefühl als würde man allein durchs 
 Atmen betrunken. Ich kann mich nicht so recht entscheiden, ob ich den Geruch mag oder nicht. Zum Schluss bekommen wir 
@@ -415,7 +415,7 @@ noch einen kleinen Probewhisky.
 Abends gehen wir vor dem Essen noch einmal ans Ufer des Loch Linnhe, wo das Licht der untergehenden Sonne eine sehr 
 schöne Stimmung erzeugt.
 
-![](/assets/img/west-highland-way-2014/40.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/40.JPG)
 
 Unbedingt machen:
 - Es ist angenehm, am Ende der Reise noch mindestens einen Tag zu haben, an dem man die Tour ausklingen lassen und sich 
@@ -432,7 +432,7 @@ sehr schmal und vor allem wenn ein LKW entgegen kommt, ist es schon etwas grusel
 ziemlich weit. Als wir dort sind, machen wir uns zunächst auf nach Portree, die größte Stadt der Insel. Portree ist 
 trotzdem recht beschaulich und hat einen sehr hübschen Hafen.
 
-![](/assets/img/west-highland-way-2014/41.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/41.JPG)
 
 Wir essen in der Stadt zu Mittag und ich finde einen kleinen Musikladen, wo ich ein Lehrbuch für schottische Tin Whistle 
 erstehe. Weiter geht es nach Westen, denn wir wollen noch ans Meer. Die Fahrt über die Insel ist spannend und die 
@@ -446,19 +446,19 @@ endet sie an einem Parkplatz, direkt auf einer Klippe. Wir haben das Ende der We
 es nun weiter, eine Treppe hinab. Wir haben einen tollen Blick auf die vor uns liegende Landzunge, die uns umgebenden 
 Klippen und den Leuchtturm. 
 
-![](/assets/img/west-highland-way-2014/42.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/42.JPG)
 
 Wir laufen bis an Ende der Landzunge in Richtung Meer. Hinter dem Leuchtturm beginnt ein riesiges Feld aus Geröll und 
 Felsen. Von weiten betrachtet, sieht das recht unspektakulär aus, doch je näher wir kommen, desto erstaunter bin ich. 
 Die Felsen formen ein Labyrinth aus Passagen und Tümpeln, in dem man sich fast ein bisschen verlaufen kann.
 
-![](/assets/img/west-highland-way-2014/43.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/43.JPG)
 
 Es macht unglaublich großen Spaß über die Felsen zu hüpfen und die vielen kleinen verborgenen Nischen und Gänge zu 
 entdecken. Ich glaube an diesem Ort könnte ich Stunden verbringen ohne dass mir langweilig wird. Meiner Meinung nach 
 einer der schönsten Orte auf dieser Welt.
 
-![](/assets/img/west-highland-way-2014/44.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/44.JPG)
 
 Als sich der Sonnenuntergang nähert, machen wir uns auf den Rückweg. Wir erklimmen noch den Berg, der über dem 
 Leuchtturm aufragt und gehen dann zurück zum Auto. Peter übernimmt die Rückfahrt. Bald wird es dunkel. Wir machen noch 
@@ -484,7 +484,7 @@ ein wenig, denn wir haben vor den langen Weg außen herum zu gehen und uns von h
 relativ gut besucht. Ein stetiger Strom aus Wanderern schleppt sich den Weg hoch. Wir erreichen, dass Plateau, auf dem 
 das Lochan Meall an t-Suidhe liegt, ein kleiner See, an dem sich Pony Track und "Geheim-Weg" trennen.
 
-![](/assets/img/west-highland-way-2014/45.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/45.JPG)
 
 Nadine und ich machen an der Kreuzung eine Pause, in der Matthias zu uns aufschließt und sich dann auf dem Pony-Track 
 weiter nach oben macht. Wir gehen weiter, mehr oder weniger eben an der Flanke des Berges entlang, um ihn zu umrunden 
@@ -494,7 +494,7 @@ Nachbarberg Càrn Mòr Dearg hinein. Die Rückseite des Ben Nevis, die wir nach 
 völlig anders aus als seine Vorderseite, wild und zerklüftet und an vielen höher gelegenen Stellen noch mit Schneeresten 
 bedeckt.
 
-![](/assets/img/west-highland-way-2014/46.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/46.JPG)
 
 Wir kommen an einer Berghütte vorbei, an der wir eine weitere Wandergruppe treffen, die aber anscheinend nicht dasselbe 
 Ziel hat wie wir. Der Weg wird immer wilder und verliert sich schon bald zwischen Felsen und dem Heidekraut. Von nun an 
@@ -505,17 +505,17 @@ Immer wieder müssen wir prüfen, ob das Geröll, auf das wir treten, auch fest 
 eine paar wilde Heidelbeeren. Ich überlege, wie wir wohl von weiten aussehen müssen, wie zwei bunte Fliegen, die eine 
 Wand hoch krabbeln vermutlich. Erleichtert erreichen wir schließlich den Kamm ein kleines Stück zu weit rechts.
 
-![](/assets/img/west-highland-way-2014/47.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/47.JPG)
 
 Der Gipfel des Càrn Mòr Dearg liegt links von uns. Es ist nur ein kurzer Anstieg. Von oben haben wir eine gigantische 
 Aussicht auf die Càrn Mòr Dearg Arête, den Kamm, der diesen Berg mit dem Ben Nevis verbindet.
 
-![](/assets/img/west-highland-way-2014/48.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/48.JPG)
 
 Hier beginnt der eigentliche Spaß. Über den Kamm klettern und hüpfen wir wie zwei Bergziegen immer weiter in Richtung 
 Ben Nevis. Der Weg ist nicht wirklich schwierig aber anspruchsvoll. 
 
-![](/assets/img/west-highland-way-2014/49.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/49.JPG)
 
 Die Aussicht auf hundert weitere Berge in allen Richtungen ist unbeschreiblich.  Wir erreichen das Hauptmassiv des Ben 
 Nevis und machen uns an den steilen Anstieg. Auch hier ist der Weg meist nur zu erahnen, er führt über Felsen und Geröll 
@@ -523,7 +523,7 @@ sehr steil nach oben. Nicht besonders hübsch aber nichtdestotrotz faszinierend.
 vorbei. Das flache Hochplateau des Ben Nevis ist dicht bevölkert. Im Vergleich zum Anstieg ist das Gipfelgefühl ein 
 wenig enttäuschend, dennoch auch hier eine tolle Aussicht in alle Richtungen.
 
-![](/assets/img/west-highland-way-2014/50.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/50.JPG)
 
 Wir machen uns nach einer wohlverdienten Pause auf dem Rückweg, diesmal mit dem Menschenstrom den Pony Track hinab. 
 Der Weg ist ziemlich ausgelatscht und kommt uns, obwohl kürzer als unser Hinweg, viel länger vor. Wir beobachten noch, 
@@ -541,13 +541,13 @@ Talschluss rein, wie es geht und wandern los. Immer am River Nevis entlang geht 
 hübschen Weg entlang. Anstatt dem Hauptweg zu folgen, folgen wir einem anfangs noch harmlos scheinenden kleineren Pfad 
 auf der anderen Flussseite. 
 
-![](/assets/img/west-highland-way-2014/51.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/51.JPG)
 
 Bald wird der Weg immer kleiner und matschiger. Peter, der nicht so ganz gesund ist, beschließt umzukehren. Als wir 
 eine große Pfütze überqueren müssen, landet Jochen im Schlamm. Zum Glück ist nichts passiert. Der Weg wird immer wilder 
 und hügeliger, bis er kaum noch zu begehen ist.
 
-![](/assets/img/west-highland-way-2014/52.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/52.JPG)
 
 Ich gehe ein wenig kundschaften und finde heraus, dass der Weg nun so richtig steil über Felsen geht und ohne richtiges 
 Klettern nicht zu bewältigen ist. Zu unserer linken fließt der Fluss in einer Schlucht wild durch ein Labyrinth von 
@@ -556,19 +556,19 @@ es mit Option 2. Wir kraxeln den Wald hinab zum Flussufer und dann über die rie
 zumindest mir großen Spaß macht. Die letzten paar Meter müssen wir durch den Fluss waten. Er ist eisig kalt und tiefer 
 als es den Anschein hat.
 
-![](/assets/img/west-highland-way-2014/53.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/53.JPG)
 
 Kurz vor Erreichen des sicheren Landes stolpert Jochen und versenkt seinen Schuh im kühlen Nass. Wir haben nun den 
 Hauptpfad erreicht, der sich nach nur wenigen Metern öffnet und das eigentliche Glen Nevis preisgibt. Vor der Schlucht 
 ist der Fluss ganz zahm uns plätschert leise vor sich hin. Wir machen am breiten Kieselstrand eine Pause von den 
 Strapazen. Mitten im Fluss liegt ein dicker Felsen, der sich ausgezeichnet für ein Sonnenbad eignet.
 
-![](/assets/img/west-highland-way-2014/54.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/54.JPG)
 
 Auch dieser Ort hat eine so einmalige Atmosphäre, so friedlich und erhaben, dass er mir als einer der schönsten Orte der 
 Welt in Erinnerung bleibt. 
 
-![](/assets/img/west-highland-way-2014/55.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/55.JPG)
 
 Während wir auf dem Nebenpfad am anderen Ufer keinen anderen Menschen begegnet waren, ist es hier jetzt wieder 
 vergleichsweise überlaufen. Ein kleines Stück weiter führt eine Seilbrücke über den Fluss in Richtung des Steall Falls. 
@@ -577,17 +577,17 @@ höchsten Stelle mag das Seil ungefähr drei Meter über dem Fluss hängen. Wir 
 seichten Fluss waten, aber natürlich gehen wir spaßeshalber über die Seilbrücke, die nicht so schwierig zu übergehen ist 
 wie sie aussieht. Dennoch bekommen wir bei der Überquerung ein
 
-![](/assets/img/west-highland-way-2014/56.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/56.JPG)
 
 Schließlich laufen wir noch zum Wasserfall, der wirklich sehr beeindruckend ist.
 
-![](/assets/img/west-highland-way-2014/57.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/57.JPG)
 
 Der Rückweg erfolgt über den etwas zahmeren Hauptweg. Matthias fährt per Anhalter zurück. Nadine, Jochen und ich 
 laufen über eine Anhöhe bis nach Fort William, wodurch wir noch einen sehr hübschen Ausblick über Fort William zu sehen 
 bekommen.
 
-![](/assets/img/west-highland-way-2014/58.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/west-highland-way-2014/58.JPG)
 
 Unbedingt machen:
 - Wer es ein bisschen abenteuerlich mag, sollte auf dem Weg ins Glen Nevis die rechte Uferseite wählen. Wenn der Weg 

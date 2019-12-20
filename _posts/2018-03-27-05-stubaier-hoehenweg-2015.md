@@ -7,8 +7,8 @@ categories:
   - Alpen
   - Huettentour
 description: Reisebericht Stubaier Höhenweg 2015
-image: /assets/img/stubaier-hoehenweg-2015/05.JPG
-image-sm: /assets/img/stubaier-hoehenweg-2015/05.JPG
+image: /a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/05.JPG
+image-sm: /a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/05.JPG
 ---
 ### Eckdaten
 **Name:** Stubaier Höhenweg<br/>
@@ -28,20 +28,20 @@ weitergeht, geht es nur langsam voran. Wir erreichen schließlich gegen 15 Uhr N
 unser Auto abstellen. Wir machen uns auf den Weg durch Dorf und finden auf Anhieb den Weg den Berg hoch, der zur 
 Starkenburger Hütte führt. Es sind über 1200 Höhenmeter zu bewältigen.
 
-![](/assets/img/stubaier-hoehenweg-2015/01.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/01.JPG)
 
 Es ist sehr heiß und der Weg sehr steil. Die Rucksäcke kommen uns viel zu schwer vor und schon nach kurzer Zeit sind wir 
 nass geschwitzt. Allerdings ist der Weg nett. Ohne Bergautobahn geht es auf einem engen Bergpfad durch den Wald nach 
 oben. Auf einer Alm treffen wir einen netten Ziegenbock, der uns ein Stück begleitet und dann im Galopp wieder nach 
 unten verschwindet.
 
-![](/assets/img/stubaier-hoehenweg-2015/02.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/02.JPG)
 
 Weiter oben wird es kühler. Wir lassen die Baumgrenze hinter uns und treffen auf eine Herde Almkühe, die sich nicht die 
 Mühe machen. uns Platz zu machen. Sie stehen genau auf dem schmalen Weg, sodass wir uns über den Hang an ihnen vorbei 
 quetschen müssen.
 
-![](/assets/img/stubaier-hoehenweg-2015/03.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/03.JPG)
 
 Über uns taucht die Starkenburger Hütte in unserem Sichtfeld auf. Wir quälen uns die letzten paar Meter nach oben und 
 kommen erschöpft auf der Hütte an. Die Aussicht von oben auf die umliegenden Berge ist fantastisch. Wir betreten die 
@@ -49,7 +49,7 @@ Hütte. Es ist sehr voll, aber wir finden noch zwei freie Plätze und kommen noc
 Küche schließt. Für mich gibt es Spinatknödel mit Salat. Nachdem uns die Frau auf der Hütte ein 11 Euro teures Frühstück 
 aufquatschen will,  beziehen wir unser Lager, das ein Stück abseits in einem Nebengebäude liegt.
 
-![](/assets/img/stubaier-hoehenweg-2015/04.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/04.JPG)
 
 Da in der Hütte Wassermangel herrscht, gibt es keine Duschen und auch keine richtigen Toiletten. Hinter der Hütte stehen 
 Plumsklos. Unser Lager ist vollbelegt, weswegen die Nacht unruhig, stickig und heiß ist.
@@ -71,7 +71,7 @@ Sonne aufgeht. Ein grandioser Anblick. Das Wetter ist nach wie vor famos. Ohne F
 entschließen uns, direkt zu Anfang einen Gipfel mitzunehmen und den Hohen Burgstall zur erklimmen. Auch dies ist wieder 
 enorm anstrengend aber die Aussicht vom Gipfel entschädigt für alle Mühen.
 
-![](/assets/img/stubaier-hoehenweg-2015/05.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/05.JPG)
 
 Nach kurzer Pause machen wir uns wieder an den Abstieg uns setzen unseren Weg zur Franz Senn Hütte fort. Bald macht 
 sich ein Problem bemerkbar: Wir haben zu wenig Wasser!  Auf der Hütte war uns zu Ohren gekommen, dass man seine 
@@ -80,7 +80,7 @@ mit nur einem halben Liter Restwasser vom Vortag aufgebrochen, das nun nach unse
 geht. An einem Fluss kommen wir jedoch nicht vorbei. Wir hoffen auf dem Weg noch Wasser zu finden, denn anderenfalls 
 müssten wir sehr sehr sparsam
 
-![](/assets/img/stubaier-hoehenweg-2015/06.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/06.JPG)
 
 Der Weg verläuft wunderschön immer an einer Bergflanke entlang. Da wir gleich zu Anfang einen Umweg über den Burgstall 
 gemacht haben, sind die anderen Wanderer alle schon weit vor uns, sodass wir die Berge praktisch ganz für uns allein 
@@ -88,12 +88,12 @@ haben. Irgendwann tauchen unter uns zwei Seen auf und ich beschließe, dort Wass
 bleibt, kraxele ich ziemlich steil ca. 50 Höhenmeter runter an einem pfeifenden Murmeltier vorbei und fülle in dem 
 klaren eiskalten Wasser unsere Flaschen auf. 
 
-![](/assets/img/stubaier-hoehenweg-2015/07.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/07.JPG)
 
 Nun können wir etwas entspannter unseren Weg fortsetzen. Der Weg bleibt wunderschön aber langsam verschlechtert sich 
 das Wetter.  Wir sind sehr froh Mütze, Schal und Handschuhe eingepackt zu haben, denn es ist sehr windig.
 
-![](/assets/img/stubaier-hoehenweg-2015/08.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/08.JPG)
 
 Der Weg zieht sich und Renés Laune sinkt rapide. Vielleicht hätten wir den Abstecher zum Hohen Burgstall nicht machen 
 sollen, um mit unseren Kräften hauszuhalten, aber nun hilft alles nichts  - wir müssen noch ca. 3 Stunden weiterlaufen 
@@ -101,7 +101,7 @@ bis zur Hütte. Auf der winzigen Seducker Hochalm machen wir eine kleine Rast. I
 Apfelsaft und Radler. Nach der Rast geht es immer weiter an der Bergflanke entlang bis irgendwann noch sehr weit 
 entfernt die Franz Senn Hütte in Sicht kommt, die wir dann nach unzähligen Kehren bei Nieselwetter erreichen.
 
-![](/assets/img/stubaier-hoehenweg-2015/09.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/09.JPG)
 
 Die Hütte ist groß aber freundlich und beherbergt gerade eine große Gruppe angehender Alpinärzte, die gerade ein 
 Bergtraining absolvieren. Die Hütte liegt an einem Fluss, sodass ausreichend Wasser zur Verfügung steht. Die Duschen 
@@ -132,7 +132,7 @@ Hütte laufen müssen. Als wir dann im Trockenraum aber sehen, dass sich eine ga
 Kletterausrüstung wirft,  entscheiden wir uns spontan um und machen uns auf den Weg zum ersten Klettersteig, dem 
 Höllenrachen.
 
-![](/assets/img/stubaier-hoehenweg-2015/10.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/10.JPG)
 
 Der Weg führt uns zunächst ein Stück in das wunderschöne Hochtal hinein, bevor der Klettersteig direkt am reißenden 
 Fluss in eine Höhle hinein führt. Das Wasser tost direkt unter uns daher und ist ziemlich Furcht einflößend. An einer 
@@ -140,7 +140,7 @@ Stelle scheint es nicht weiterzugehen, aber dann finden wir doch die  Eisenklamm
 eine Höhlenausbuchtung. Von dort kann man sich an einem Rollkarabiner hängen und sich an dem Seil über den Fluss ziehen. 
 Beim Aushängen auf der anderen Flussseite habe ich ein wenig Schwierigkeiten, aber es klappt zum Glück dann doch noch. 
 
-![](/assets/img/stubaier-hoehenweg-2015/11.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/11.JPG)
 
 Wir sind recht froh als wir den Steig hinter uns gebracht haben. Zwar hat es total Spaß gemacht, aber es war auch echt 
 nichts für schwache Nerven. So nah an der Macht des reißendes Wassers dran zu sein ist schon was Besonderes.
@@ -148,7 +148,7 @@ Nach dem Höllenrachen wollen wir zum zweiten Steig, dem Edelweißklettersteig, 
 entzieht. Stattdessen laufen wir immer weiter in den Talschluss hinein in Richtung des Alpeiner Gletschers. Der Weg 
 führt immer am Bach entlang bis wir schließlich den Rand des Gletschers erreichen.
  
-![](/assets/img/stubaier-hoehenweg-2015/12.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/12.JPG)
 
 Die ganze Zeit über sind wir mutterseelenallein im Tal. Am Gletscher drehen wir um und auf dem Rückweg wird das Wetter 
 schlechter. Es fängt an zu regnen und wird sehr kalt. Wir treffen dann doch noch einen einsamen anderen Wanderer, der 
@@ -169,7 +169,7 @@ Bevor wir an diesem Tag loslaufen, wollen wir den Edelweißklettersteig machen, 
 der Hütte liegt. Kein Wunder also, dass wir ihn am vorherigen Tag weiter im Tal nicht gefunden hatten. Nach einem nicht 
 ganz einfachen Einstieg geht auch nicht ganz einfach weiter. 
 
-![](/assets/img/stubaier-hoehenweg-2015/13.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/13.JPG)
 
 Der Klettersteig hat die Schwierigkeit C-D. Das scheint für uns Klettersteigneulinge ein wenig zu anspruchsvoll zu sein. 
 Zwar ist der Klettersteig einigermaßen gut kletterbar, allerdings verläuft das Sicherungsseil an manchen Stellen nicht 
@@ -181,7 +181,7 @@ gar nicht auf die Pflanzenwelt konzentrieren, weil wir viel zu sehr mit nicht ab
 angekommen treffen wir auf die Alpinärzte, die gerade trainieren, wie man jemanden zu einem Verletzten abseilt. 
 Wenigstens wären die nicht weit weg gewesen.
 
-![](/assets/img/stubaier-hoehenweg-2015/14.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/14.JPG)
 
 Wir laufen zurück zur Hütte, holen unsere Rucksäcke ab und machen und auf den Weg zur Neuen Regensburger Hütte. Der Weg 
 führt zunächst sanft am Berg entlang. Auf einem Felsen rutsche ich aus und schramme mir den Arm an.  Ich habe aber Glück 
@@ -190,12 +190,12 @@ wenn sich mal jemand ernsthaft verletzt. Gelegenheiten dazu gibt es reichlich, v
 mitspielt. Handyempfang gibt es größtenteils nicht und andere Menschen trifft man hier tagsüber auch nur äußerst selten. 
 Der Weg wird nun immer schroffer und führt nun stellenweise steil über Felsen den Berg hinauf.
 
-![](/assets/img/stubaier-hoehenweg-2015/15.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/15.JPG)
 
 Hier hätte man auch gut Mordor oder die Emyn Muil drehen können.  Es geht nur noch über Felsen und Geröll bis wir das 
 Schrimmennieder erreichen.
 
-![](/assets/img/stubaier-hoehenweg-2015/16.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/16.JPG)
 
 Wir machen noch einen kleinen Gipfelabstecher zum Basslerjoch und lassen hierfür unsere Rucksäcke zurück. Da es extrem 
 windig ist, legen wir einen dicken Felsen auf die Rucksäcke, damit sie uns nicht vom Berg gepustet werden. Der Weg hoch 
@@ -203,7 +203,7 @@ zum Gipfel ist nicht so nett. Er ist recht ausgetreten und führt über loses Ge
 wieder wett. Der Abstieg vom Nieder ist zunächst etwas dröge, aber schon bald kommt die Neue Regensburger Hütte in 
 Sicht, die sehr malerisch über einem Wasserfall gelegen ist.  
 
-![](/assets/img/stubaier-hoehenweg-2015/17.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/17.JPG)
 
 Die Hütte ist um einiges kleiner als die Franz Senn Hütte und hat eher so einen richtigen Hütten-Charakter. Wir essen 
 einen Germknödel und spielen Rummy und Mastermind aus der Spielesammlung der Hütte. Abend esse ich dann den nächsten 
@@ -215,7 +215,7 @@ Vegetarier.
 Nach dem Frühstück laufen wir in den Talschluss hinter der Regenburger Hütte hinein und durchqueren das malerische 
 Hochmoos.
 
-![](/assets/img/stubaier-hoehenweg-2015/18.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/18.JPG)
 
 Im Talschluss machen wir noch einen kleinen Abstecher zum Falbesoner See, der etwas versteckt ca. 15 Minuten abseits 
 des Höhenwegs liegt und sich leider als wenig spektakulär erweist. Danach geht es allerdings umso spektakulärer weiter 
@@ -223,24 +223,24 @@ zum Grawagrubennieder. Vorbei an einem Gletscher geht es immer weiter bergauf ü
 ist hier größtenteils nicht mehr zu erkennen. Das Kraxeln über Felsen macht enorm viel Spaß ist aber auch sehr 
 kräftezehrend.
 
-![](/assets/img/stubaier-hoehenweg-2015/19.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/19.JPG)
 
 Irgendwann hängt von oben ein loses Stahlseil hinab, an dem man sich hochziehen kann. Es geht extrem steil über enorm 
 rutschigen Schotter und danach über Felsen und Steigeisen weiter aufwärts bis das Nieder erreicht ist. Dieses Wegstück 
 ist echt nicht ohne und wir sind sehr froh, dass es nicht regnet.
 
-![](/assets/img/stubaier-hoehenweg-2015/20.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/20.JPG)
 
 Danach verläuft der Weg ganz typisch immer in der Bergflanke über sehr nette schmale Pfade, wie wir sie schon vom 
 ersten Tag kennen.
 
-![](/assets/img/stubaier-hoehenweg-2015/21.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/21.JPG)
 
 Wir erreichen eine Kreuzung und entscheiden uns einen weiteren kleinen Umweg zum Mutterbergersee zu nehmen. Zu diesem 
 Zeitpunkt ist Renés Laune wegen seiner Füße aber schon wieder gegen Null gesunken, sodass er die Idylle des Sees leider 
 gar nicht genießen kann, was ein wenig schade ist, weil ich es hier sehr hübsch finde.
 
-![](/assets/img/stubaier-hoehenweg-2015/22.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/22.JPG)
 
 Nach dem See treffen wir zum ersten Mal auf einen Wirtschaftsweg, der sehr steil in das Skigebiet des Stubaier 
 Gletschers führt. Die Landschaft hier ist deutlich weniger wild als noch vor ein paar Stunden. Die Eingriffe des 
@@ -249,7 +249,7 @@ Gehen auf diesem Weg ist extrem unangenehm und anstrengend. Es fängt wieder an 
 zur Hütte hat mich dann auch ziemlich die Motivation verlassen. Letztendlich taucht dann direkt neben der Mittelstation 
 der Seilbahn die große Dresdener Hütte auf. 
 
-![](/assets/img/stubaier-hoehenweg-2015/23.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/23.JPG)
 
 Hier kann man für einen Euro warm duschen. Das Lager besteht hier aus richtigen Betten wie in einer Jugendherberge.  
 Zum Essen gibt es diesmal wieder Käsespätzle. Auch gut, nur nicht ganz so phänomenal wie die auf der Franz Senn Hütte.
@@ -267,19 +267,19 @@ Den Fernauer Klettersteig, der für heute geplant war, müssen wir leider sausen
 führt uns der Weg über matschiges Baustellengelände der Seilbahn, dann bergan über das Peiljoch. Oben angekommen steht 
 ein Herr aus Steinmännchen.  Ein witziger Anblick.
 
-![](/assets/img/stubaier-hoehenweg-2015/24.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/24.JPG)
 
 Wir sind froh, nicht den längeren Weg über den Trögler genommen zu haben, denn der Wind ist hier schon so stark, dass 
 man bei einer Böe fast umgeweht wird. Verläuft der Weg am Abgrund, muss man natürlich besonders aufpassen. Gerade mit 
 dem dicken Rucksack kommt man schnell aus dem Gleichgewicht. Direkt hinter dem Joch öffnet sich der Blick auf den 
 beeindruckenden Sulzenauferner. 
 
-![](/assets/img/stubaier-hoehenweg-2015/25.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/25.JPG)
 
 Hier können wir uns zwischen zwei Wegvarianten entscheiden. Am Gletscherbach entlang oder in der Bergflanke mit Blick 
 über das Tal. Wir wählen die Bergflanke und werden auch hier des Öfteren beinahe vom Berg gepustet.
 
-![](/assets/img/stubaier-hoehenweg-2015/26.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/26.JPG)
 
 Wir erreichen die Sulzenauhütte, die auf unserer heutigen Wanderung aber nur ein Zwischenziel ist.  Hier gibt es den 
 Klettersteig Wilde Wasser. Wieder ein Schluchtenklettersteig in der Schwierigkeit A bis C. Wir lassen unsere Rucksäcke 
@@ -290,7 +290,7 @@ besteht die Möglichkeit, zurückzusteigen und die Stelle zu umgehen. Es gibt ei
 kann, um mich René wieder anzuschließen. Der Steig geht anspruchsvoller weiter immer über dem Fluss am Fels entlang. Ich 
 finde es wie schon zuvor beim Höllenrachen ein wenig gruselig, weil man so über dem Wasser hängt. 
 
-![](/assets/img/stubaier-hoehenweg-2015/27.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/27.JPG)
 
 Allerdings ist der Steig lange nicht so anspruchsvoll wie der Höllenrachen. Zum Schluss müssen wir erneut den Fluss 
 queren. Wieder gilt es, einen riesigen Schritt zu machen. Diesmal sind jedoch zwei Stahltritte angebracht, die es 
@@ -299,12 +299,12 @@ und trinken einen Kakao. Dann setzen wir unsere Wanderung in Richtung der Nürnb
 nach Verlassen der Hütte an zu regnen. Der Weg ist dennoch super. Sehr malerisch geht es am Grünausee vorbei, der trotz 
 des schlechten Wetters eine unglaublich türkise Farbe hat. Darüber liegt der Gletscher des wilden Freigers. 
 
-![](/assets/img/stubaier-hoehenweg-2015/28.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/28.JPG)
 
  Nach dem Aufstieg auf das Niederl geht es steil bergab zur Hütte. Bei dem Regen ist der Weg über die steilen Felsen 
  recht beschwerlich und auch nicht gerade ungefährlich.
  
-![](/assets/img/stubaier-hoehenweg-2015/29.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/29.JPG)
 
 Als wir bei der Nürnberger Hütte ankommen, fängt es richtig an zu schütten. Zwar sind wir nass, aber was da jetzt vom 
 Himmel kommt, hätten wir auf dem schwierigen Weg, der hinter uns liegt, so gar nicht gebrauchen können. Glück gehabt 
@@ -325,26 +325,26 @@ Das Wetter ist heute wider Erwarten ziemlich gut. Da die Felsen aber noch nass s
 der Nürnberger Hütte links liegen. Das Tal ist wolkenverhangen aber die Gipfel der umliegenden Berge sind wolkenfrei. 
 Ein sehr schöner Anblick.
 
-![](/assets/img/stubaier-hoehenweg-2015/30.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/30.JPG)
 
 Der Weg führt sehr nett über Gletscherschliffplatten und über ein Hochmoor mit dem Namen Paradies hinauf zum Simmingjöchl.
 
-![](/assets/img/stubaier-hoehenweg-2015/31.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/31.JPG)
 
 Kurz vor dem höchsten Punkt sehen wir eine Familie von vier Steinböcken, eines davon ein Jungtier. Die Tiere sind von 
 uns recht unbeeindruckt und bleiben ruhig als wir an ihnen vorbei wandern.
 
-![](/assets/img/stubaier-hoehenweg-2015/32.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/32.JPG)
 
 Auf der anderen Seite des Jöchels geht es steil bergab und dann auf einfachem Weg das Tal entlang. Hier begegnen wir 
 sehr vielen Murmeltieren. Ein sehr tierreicher Tag. Immer wieder hören wir das Pfeifen der Tiere und sehen sie über 
 Felsen und Hänge huschen.
 
-![](/assets/img/stubaier-hoehenweg-2015/33.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/33.JPG)
 
  Wir erreichen die Bremer Hütte, die sehr schön zwischen Gletscherschlifffelsen und kleinen Seen gelegen ist.
  
-![](/assets/img/stubaier-hoehenweg-2015/34.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/34.JPG)
 
 Die Hütte ist nett, hat aber anscheinend Wände aus Papier. Unsere Zimmernachbarn hören wir so laut als würden sie direkt 
 neben uns stehen. Abends gehen wir nochmal raus, aber leider ist der grandiose Ausblick ins Tal, den wir von der Hütte 
@@ -361,14 +361,14 @@ beginnen, ziehen wir unsere Klettersteigsets an. Der Steig ist zwar nicht allzu 
 doch etwas umständlich. Wir sind dann doch froh, gesichert zu sein. Im Laufe des Tages überqueren wir dann noch drei 
 Pässe beziehungsweise Jöchl. 
 
-![](/assets/img/stubaier-hoehenweg-2015/35.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/35.JPG)
 
 Der Weg ist anspruchsvoll, schön und anstrengend, denn zusätzlich zu den vielen Kilometern sind auch wieder viele 
 Höhenmeter zu überwinden. Leider hält sich die Aussicht fast den ganzen Tag über in Grenzen. Erneut sehen wir einige 
 Murmeltiere. Wir erreichen schließlich die Innsbrucker Hütte, die anders als viele vorherige Hütte sehr hübsch mitten 
 auf einem Grat gelegen ist.
 
-![](/assets/img/stubaier-hoehenweg-2015/36.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/36.JPG)
 
 Der offizielle Stubaier Höhenweg liegt nun hinter uns. Auf der einen Seite erhebt sich der Habicht auf der anderen die 
 Ilmspitze. Zum Mittag essen wir eine Suppe und zum Abend gibt es Nudeln mit scharfer Soße und als Nachtisch teilen wir 
@@ -383,7 +383,7 @@ besonders wenn das Wetter schlecht ist. Bei gutem Wetter ist die Strecke gut mac
 Geplant haben wir für den heutigen Tag die Begehung der Ilmspitze über den Klettersteig, aber als wir am Morgen aus dem 
 Fenster schauen, geben wir unsere Pläne ernüchtert auf. Alles ist weiß. Über Nacht hat es kräftig geschneit. 
 
-![](/assets/img/stubaier-hoehenweg-2015/37.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/37.JPG)
 
 Mit ein wenig Wehmut machen wir uns stattdessen an den Abstieg. Wir haben zunächst ein bisschen Bammel, weil es auf  
 dem tauenden Schnee sehr rutschig ist, aber der Weg ist breit und größtenteils schneefrei. Auf breiten Serpentinen 
@@ -396,19 +396,19 @@ der Schnee sich bis dahin verflüchtigt hat und wir dort vielleicht noch einen K
 ein letztes Mal bergauf.  Je höher wir kommen, desto mehr Schnee ist natürlich auch wieder da. Die schmalen Wege 
 bleiben bis wir das Zwölfernieder erreichen jedoch schneefrei.
 
-![](/assets/img/stubaier-hoehenweg-2015/38.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/38.JPG)
 
 Von dort wollen wir über den Gratweg der Elferspitze, doch hier liegt jetzt auch Schnee auf dem Weg. Es ist sehr 
 rutschig, und da der Weg direkt am Abgrund liegt, beschließen wir schon nach wenigen Metern lieber wieder umzukehren 
 und über den Panoramaweg zur Elferhütte zu laufen.
 
-![](/assets/img/stubaier-hoehenweg-2015/39.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/39.JPG)
 
 Auf dem Panoramaweg kommen uns dann zum ersten Mal nach einer Woche wieder massenweise Menschen entgegen, die wohl alle 
 mit der Elferbahn nach oben gefahren sind.  In der Elferhütte essen wir noch etwas zu Mittag. Die Hütte hat jedoch 
 verglichen mit den anderen Hütten den Charme eine Pommesbude.
 
-![](/assets/img/stubaier-hoehenweg-2015/40.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/stubaier-hoehenweg-2015/40.JPG)
 
 Wir laufen zur Seilbahn und lassen uns die letzten 1200 Höhenmeter sanft ins Tal tragen, wo unser Auto auf uns wartet.
 

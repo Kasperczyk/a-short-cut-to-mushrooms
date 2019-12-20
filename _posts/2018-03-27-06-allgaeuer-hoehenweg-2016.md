@@ -8,8 +8,8 @@ categories:
   - Alpen
   - Huettentour
 description: Reisebericht Allgäuer Höhenweg 2016
-image: /assets/img/allgaeuer-hoehenweg-2016/29.JPG
-image-sm: /assets/img/allgaeuer-hoehenweg-2016/29.JPG
+image: /a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/29.JPG
+image-sm: /a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/29.JPG
 ---
 ### Eckdaten
 **Name:** Allgäuer Höhenweg<br/>
@@ -23,7 +23,7 @@ nicht getan zu haben, denn zum Ende der Wanderung sind ziemlich am Ende unserer 
 zunächst auf einer ziemlich belebten Bergautobahn sanft bergan an der Flanke des Berges bergan in Richtung 
 Söllereckkanzel. Plötzlich kommt uns ein Smart entgegen. Ein witziger Anblick, so ein Smart mitten auf einer Bergstraße.
 
-![](/assets/img/allgaeuer-hoehenweg-2016/01.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/01.JPG)
 
 Aus eigener Erfahrung weiß ich, dass Smarts nicht die allerbesten Offroad-Bergfahrzeuge sind. Schließlich verlassen wir 
 die Bergautobahn und steigen auf einem schmaleren Bergpfad hinauf zum Kammweg des Fellhornzugs. Trotz des kleineren 
@@ -33,12 +33,12 @@ Stubaital. Der Fellhornzug soll für seine sehr variantenreiche und üppige Flor
 die meisten Alpenpflanzen allerdings schon verblüht, sodass wir wenig davon mitbekommen. Wir überschreiten mehrere 
 kleine Gipfel: den Schlappoltkopf und das Fellhorn. 
 
-![](/assets/img/allgaeuer-hoehenweg-2016/02.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/02.JPG)
 
 Hinter dem Fellhorn lassen wir schließlich den belebten Gratweg hinter uns steigen links wieder relativ weit ab und 
 sehen schließlich die knapp über 2000 Meter liegende Fiderepasshütte weit über uns auf einem Bergsattel auftauchen. 
 
-![](/assets/img/allgaeuer-hoehenweg-2016/03.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/03.JPG)
 
 Wir sind mittlerweile ziemlich am Ende. Zwar war die Wanderung nicht sehr anspruchsvoll, dennoch sind wir nach der 
 langen Autofahrt und der Wanderung mit doch einigen Höhenmetern ziemlich ausgelaugt. Die letzten 100 Höhenmeter 
@@ -58,56 +58,56 @@ Da wir für diesen Tag den Mindelheimer Klettersteig geplant haben, machen wir u
 Allerdings völlig unbegründet: am nächsten Tag werden wir von einem völlig klaren, sonnigen Tag überrascht. Die Berge 
 leuchten richtig in der aufgehenden Sonne. 
 
-![](/assets/img/allgaeuer-hoehenweg-2016/04.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/04.JPG)
 
 Der Einstieg zum Klettersteig befindet sich nicht weit von der Hütte. Wir  müssen zunächst in ca. einer halben Stunde 
 über eine geröllige Bergflanke zur Fiderescharte aufsteigen.
 
-![](/assets/img/allgaeuer-hoehenweg-2016/05.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/05.JPG)
 
 Es sind einige andere Wanderer / Kletterer unterwegs aber es hält sich im Vergleich zum gestrigen Tag in Grenzen. Es 
 geht noch einen kurzen Gratweg entlang bevor wir mit einen knackigen steilen Anstieg in den Klettsteig starten, der uns 
 über die drei Schafalpenköpfe führt.
 
-![](/assets/img/allgaeuer-hoehenweg-2016/06.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/06.JPG)
 
 Der Einstieg kostet Kraft, mit ganz leichtem Überhang geht es senkrecht Metallbügel rauf.
 
-![](/assets/img/allgaeuer-hoehenweg-2016/07.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/07.JPG)
 
 Der Klettersteig folgt dem Grat und führt in ständigem Auf und Ab  über die Gipfel. Die Aussicht bei diesem Wetter ist 
 gigantisch und wir haben richtig Spaß.
 
-![](/assets/img/allgaeuer-hoehenweg-2016/08.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/08.JPG)
 
 Der Klettersteig ist für unsere Klettersteigerfahrung genau richtig. Er ist ein einigen Stellen herausfordernd aber nie 
 zu schwierig, so dass wir richtige Probleme haben (Schwierigkeit C).  Zwischendurch führt der Weg immer wieder über 
 ungesicherte Passagen über den Gratweg. Hier ist Trittsicherheit gefragt. Aber nie so, dass wir uns unsicher fühlen.
 
-![](/assets/img/allgaeuer-hoehenweg-2016/09.JPG)
-![](/assets/img/allgaeuer-hoehenweg-2016/10.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/09.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/10.JPG)
 
 An einer Stelle liegt direkt neben dem Weg ein mächtiger Steinbock mit gigantischen Hörnern. Der Bock ist wenig 
 beeindruckt und bleibt gelassen, als wir stehen bleiben und ihn bewundern.
 
-![](/assets/img/allgaeuer-hoehenweg-2016/11.JPG)
-![](/assets/img/allgaeuer-hoehenweg-2016/12.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/11.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/12.JPG)
 
 Er ist es vermutlich gewohnt. Der Klettersteig ist ziemlich beliebt. Kurz hinter dem Bock ist der eigentliche 
 Klettersteig vorbei. Der Weg geht dennoch auf schönen Bergpfaden weiter zum Kemptener Kopf.
 
-![](/assets/img/allgaeuer-hoehenweg-2016/13.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/13.JPG)
 
 Oben auf dem Gipfel geht René plötzlich vor mir auf die Knie und macht mir einen Heiratsantrag. Obwohl nicht ganz 
 unerwartet (es gab da so einige Andeutungen) bin ich total überwältigt und sage ja.
 
-![](/assets/img/allgaeuer-hoehenweg-2016/14.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/14.JPG)
 
 Mit pochendem Herzen und zittrigen Knien aber sehr glücklich machen wir uns schließlich wieder auf den Weg zur jetzt 
 schon nahen unter uns liegenden Mindelheimer Hütte, auf der wir uns zur Feier des Tages erst mal ein Stück Kuchen 
 gönnen.
 
-![](/assets/img/allgaeuer-hoehenweg-2016/15.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/15.JPG)
 
 Unbedingt machen:
 - Der Mindelheimer Klettersteig ist wunderschön und bei gutem Wetter auch für Klettersteigeinsteiger gut zu bewältigen, 
@@ -124,12 +124,12 @@ haben, beschließen wir erst mal abzuwarten. Tatsächlich hört es dann nach cir
 wir brechen auf. Zunächst steigen wir auf total aufgeweichten Wegen wieder ziemlich weit ins Tal bis zum Rappenalpenbach 
 ab. Von dort geht es dann wieder bergauf und auf relativ unspektakulären Wegen bis zur Rappenseehütte. 
 
-![](/assets/img/allgaeuer-hoehenweg-2016/16.JPG)
-![](/assets/img/allgaeuer-hoehenweg-2016/17.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/16.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/17.JPG)
 
 Dort machen wir abends dann noch einen kleinen Abstecher zum malerischen namensgebenden großen Rappensee. 
 
-![](/assets/img/allgaeuer-hoehenweg-2016/18.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/18.JPG)
 
 Unbedingt machen:  Der kleine Abstecher zum Rappensee lohnt. Man läuft nur ca. 5 - 10 Minuten zum See. Vor allem schön 
 zum Sonnenuntergang.
@@ -141,33 +141,33 @@ Steinscharte zur kleinen Steinscharte auf. Wieder sind sehr viele Wanderer unter
 ist grandios. Noch liegt unser Weg im Schatten, doch wir können beobachten wir sich der Schatten des Berges verschiebt 
 und die Sonne immer weiter den Berg zu und hoch kriecht.
 
-![](/assets/img/allgaeuer-hoehenweg-2016/19.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/19.JPG)
 
 Wir beschließen einen kleinen Abstecher auf das am Wege liegende Hohe Licht zu machen. Wir lassen unsere Rucksäcke an 
 der Wegabzweigung zurück und machen und an den Aufstieg auf den 2651 Meter hohen Berg. Dieser ist nicht sonderlich 
 schwer. Zunächst geht es einen felsigen Pfad an der Flanke des Berges entlang, dann das letzte Stück zum Gipfel über mit 
 Geröll übersäten schmalen Pfad. Oben am Gipfel ist es relativ einsam.
 
-![](/assets/img/allgaeuer-hoehenweg-2016/20.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/20.JPG)
 
 Zunächst haben wir den Gipfel ganz für uns allein, dann kommen nach und nach noch zwei weitere. Die allermeisten 
 Wanderer scheinen das Hohe Licht jedoch rechts liegen gelassen zu haben. Der Ausblick von hier oben ist einfach 
 beeindruckend. Mittlerweile ist die Sonne vollends aufgegangen und wir haben eine superklare Sicht auf die umliegenden 
 zahllosen Berge, die sich in alle Himmelsrichtungen erstrecken.
 
-![](/assets/img/allgaeuer-hoehenweg-2016/21.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/21.JPG)
 
 Insgesamt benötigen wir für den Abstecher wohl circa eine knappe Stunde. Weiter geht es auf dem Heilbronner Weg und von 
 hier wird der Weg immer schöner und anspruchsvoller. Der Weg ist mit zahlreichen Seilversicherungen versehen, jedoch nie 
 so schwierig oder gefährlich, dass ein Klettersteigset nötig wäre. 
 
-![](/assets/img/allgaeuer-hoehenweg-2016/22.JPG)
-![](/assets/img/allgaeuer-hoehenweg-2016/23.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/22.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/23.JPG)
 
  Entlang des Gratweges überqueren wir noch mehrere Gipfel wie Steinschartenkopf und den Bockkarkopf. Der Weg bleibt 
  spannend und spaßig. Schließlich erreichen queren wir den kleinen Schwarzmilzferner. 
  
-![](/assets/img/allgaeuer-hoehenweg-2016/24.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/24.JPG)
 
 Dies ist der einzige Gletscher in den Allgäuer Alpen und droht bald schon ganz zu verschwinden. Dennoch ist zum 
 Zeitpunkt unserer Wanderung noch eine ganze Menge Schnee und Eis da. Bei sommerlichen Temperaturen finde ich es immer 
@@ -175,22 +175,22 @@ besonders witzig durch so viel Schnee und Eis zu laufen. Auf dem Gletscher ist e
 jedoch über fast gerades und ungefährliches Gelände, sodass wir die Rutschpartie ohne Angst vor einem Absturz genießen 
 können.
 
-![](/assets/img/allgaeuer-hoehenweg-2016/25.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/25.JPG)
 
 Nachdem wir den Gletscher überquert haben, haben wir den spektakulären Teil des Heilbronner Weg hinter uns. Dennoch 
 geht der Weg wunderschön durch sanfteres und grüneres Geländer weiter.   
 
-![](/assets/img/allgaeuer-hoehenweg-2016/26.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/26.JPG)
 
 Wir kommen an einem kleinen See vorbei, an dessen Ufer einige Steinböcke in der Sonne liegen. Ab dort sehen wir immer 
 wieder Steinböcke. Insgesamt bestimmt 20 Tiere. 
 
-![](/assets/img/allgaeuer-hoehenweg-2016/27.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/27.JPG)
 
 Schließlich erreichen wir die Kemptener Hütte und genießen dort noch eine Weile die Sonne.
 
-![](/assets/img/allgaeuer-hoehenweg-2016/28.JPG)
-![](/assets/img/allgaeuer-hoehenweg-2016/29.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/28.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/allgaeuer-hoehenweg-2016/29.JPG)
 
 Unbedingt machen:
 - Bei schönem Wetter lohnt ein Aufstieg zu einem Gipfel, z.B. zum Hohen Licht. Die Aussicht ist wirklich gigantisch.

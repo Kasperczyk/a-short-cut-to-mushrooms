@@ -7,8 +7,8 @@ categories:
   - Alpen
   - Huettentour
 description: Reisebericht Via delle Bocchette 2017
-image: /assets/img/via-delle-bocchette-2017/11.JPG
-image-sm: /assets/img/via-delle-bocchette-2017/11.JPG
+image: /a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/11.JPG
+image-sm: /a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/11.JPG
 ---
 ### Eckdaten
 **Was:** Dreitägige Hüttentour durch die Brenta<br/>
@@ -45,13 +45,13 @@ Wunder findet René sie eine kurze Zeit später nach noch ein bisschen Herumirre
 mehr oder minder planlos in die  Richtung die wir für richtig halten, und kommen dann tatsächlich auch auf einen besser 
 sichtbaren Pfad.
 
-![](/assets/img/via-delle-bocchette-2017/01.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/01.JPG)
 
 Obwohl das Wetter ganz nett ist, sind doch die umliegenden Gipfel in Wolken verhangen, sodass wir die vor uns liegenden 
 Wände der Cima Grosté nicht sehen können. Auf noch einfachen Pfaden geht in Richtung Einstieg. Über ein Band mit 
 versicherten und ungesicherten Passagen steigen wir hinauf zur Gamsscharte.
 
-![](/assets/img/via-delle-bocchette-2017/02.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/02.JPG)
 
 Hier bekommen wir einen ersten Eindruck der unglaublich steilen Felsentürme an deren Rand wir uns bewegen. Zwar ist der 
 Weg nicht knifflig, doch der schiere Abgrund ist Respekt einflößend. Der Weg wäre von der Schwierigkeit her auch ohne 
@@ -59,13 +59,13 @@ Probleme ungesichert zu gehen. Dennoch sind wir sehr froh und an den schmalen St
 nicht selten viele Hundert Meter senkrecht runter. Der Weg verläuft abwechslungsreich weiter. Irgendwann queren wir ein 
 großes Schneefeld, das hier jedoch sehr unkritisch ist, da an dieser Stelle weder rechts noch links ein Abgrund ist.
 
-![](/assets/img/via-delle-bocchette-2017/03.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/03.JPG)
 
 Entlang am Südosthang der Cima Falkner erreichen wir eine Gabelung, wo wir uns zwischen zwei Wegalternativen entscheiden 
 müssen, die beide zur Hütte führen. Wir entscheiden uns für die schwierige Variante durch die Bocca di Tuckett. Der Weg 
 wird etwas anspruchsvoller und macht richtig Spaß. 
  
-![](/assets/img/via-delle-bocchette-2017/04.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/04.JPG)
 
 Schließlich stehen wir vor dem Tuckettgletscher und uns wird bewusst, dass wir auf dem Gletscher absteigen müssen, um 
 zur Hütte zu gelangen. Extra für diesen Zweck haben wir uns vor der Reise leichte Steigeisen beziehungsweise Grödel 
@@ -74,7 +74,7 @@ ziemlich weich, wir sinken ein und müssen uns oft mit den Händen abstützen, w
 ja, dummerweise, meine Handschuhe vergessen habe. Im mittleren Bereich des Gletschers verwandelt sich der Eismatsch in 
 eine festgefrorene Eisdecke und hier offenbaren unsere Grödel ihren wahren Wert. 
   
-![](/assets/img/via-delle-bocchette-2017/05.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/05.JPG)
 
 Das Eis ist hier sehr rutschig und die Spikes geben einen relativ sicheren Halt. Ohne die Spikes wären wir vermutlich 
 ziemlich verloren gewesen. Zumal es auf halber Strecke den Gletscher runter anfing zu regnen und sehr neblig wurde, was 
@@ -84,30 +84,30 @@ der Gletscher wurde immer unwegsamer und gefährlicher. Sehr sehr vorsichtig und
 Weg nach unten. Schließlich finden wir am Rand des Gletschers wieder Markierungen und setzen erleichtert unseren Weg 
 fort. Auf dem markierten Pfad geht es dann recht gemütlich weiter bis zum Refugio Tuckett.
 
-![](/assets/img/via-delle-bocchette-2017/06.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/06.JPG)
 
 ### Tag 3 – Refugio Tuckett – Refugio Alimonta
 Als ich am nächsten Morgen aufwache und nach draußen schaue, geht mir das Herz auf. Der Himmel ist strahlend blau und 
 die Sicht ist fantastisch. Noch ist die Sonne nicht hinter den Bergen hervor gestiegen. Das Tal des Refugio Tuckett 
 liegt noch im Schatten, doch die Gipfel funkeln schon in der Morgensonne und es verspricht ein toller Tag zu werden.
 
-![](/assets/img/via-delle-bocchette-2017/07.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/07.JPG)
 
 Zunächst müssen wir denselben Weg zurück, den wir am Tag zuvor heruntergekommen sind. Wir haben ein wenig Bammel vor dem 
 Gletscher. Dieser stellt sich jedoch bergauf und bei schönem Wetter als halb so schwierig heraus.
 
-![](/assets/img/via-delle-bocchette-2017/08.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/08.JPG)
 
 Direkt oberhalb des Gletschers beginnt der Klettersteig Sentiero Bocchette Alte. Nach einiger Kletterei auf Felsstufen 
 und Leitern erreichen wir das aussichtsreiche und nur teilweise versicherte Gabari-Band.
 
-![](/assets/img/via-delle-bocchette-2017/09.JPG)
-![](/assets/img/via-delle-bocchette-2017/10.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/09.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/10.JPG)
 
 Weiter über gut gesicherte und stellenweise sehr schmale ausgefranste Bänder erreichen wir bei 3020 Metern den höchsten 
 Punkt der Tour, von dem wir wir eine tolle Aussicht haben.
 
-![](/assets/img/via-delle-bocchette-2017/11.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/11.JPG)
 
 Es ist sehr viel los auf dem Klettersteig, dennoch müssen wir selten warten. Die Kletterer scheinen alle mehr oder 
 weniger dieselbe Geschwindigkeit zu haben. Die meisten sind eindeutig in derselben Richtung unterwegs wie wir auch, ab 
@@ -116,9 +116,9 @@ aneinander vorbei quetschen muss. Der Klettersteig macht richtig Spaß. Stellenw
 anspruchsvoll, jedoch nie so, dass wir überfordert sind. Die Routenführung des Klettersteigs ist hier spektakulär. Unter 
 anderem geht es an dem Plateau des Spallone dei Massodi vorbei und die 20 m lange Leiter der Freundschaft hinauf. 
 
-![](/assets/img/via-delle-bocchette-2017/12.JPG)
-![](/assets/img/via-delle-bocchette-2017/13.JPG)
-![](/assets/img/via-delle-bocchette-2017/14.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/12.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/13.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/14.JPG)
 
 Wir gelangen schließlich an eine Weggabelung und müssen uns wieder für eine Wegvariante entscheiden. Wir entscheiden uns 
 für den Sentiero Oliva Detassis, da dieses Wegstück ein wenig schwieriger sein soll als die Alternative und wir ein 
@@ -127,7 +127,7 @@ des Spallone dei Massodi ca. 100 Meter senkrecht nach unten über Leitern hinab.
 zwar in Grenzen, allerdings zerrt es schon an den Nerven, wenn man an einer teilweise überhängenden Leiter über einen 
 über 100 Meter hohen Abgrund hängt.
 
-![](/assets/img/via-delle-bocchette-2017/15.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/15.JPG)
 
  Ich stelle mir vor, dass ich für jede Leitersprosse ein neues graues Haar bekomme. Die nicht enden wollende Leiter 
  endet schließlich doch hinter einem dicken Felsen. Dieser liegt vor einem weitläufigen und recht steil abfallenden 
@@ -135,7 +135,7 @@ zwar in Grenzen, allerdings zerrt es schon an den Nerven, wenn man an einer teil
  entweder hinter uns gelassen oder sie haben sich für die andere Wegvariante entschieden. Wir entscheiden uns dafür, 
  dass Geröllfeld einfach geradeaus zu überqueren.
  
-![](/assets/img/via-delle-bocchette-2017/16.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/16.JPG)
 
 Wie sich nachher herausstellt, war das suboptimal. Hätten wir uns links am Rand des Geröllfelds gehalten, wären wir 
 irgendwann wieder auf einen Pfad und die Markierung getroffen. Hinterher ist man immer schlauer. Wir quälen uns 
@@ -145,11 +145,11 @@ Unten angekommen rutscht René blöd aus und tut sich weh. Kurzfristig sinkt die
 Markierung wieder und setzen unseren Weg auf dem nun einfachen aber in einer fantastischen Gebirgskulisse liegenden 
 Wanderweg fort.
 
-![](/assets/img/via-delle-bocchette-2017/17.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/17.JPG)
 
 Schließlich erreichen wir das Rifugio Alimonta, dass sehr schön auf einem Feldplateau gelegen ist.
  
-![](/assets/img/via-delle-bocchette-2017/18.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/18.JPG)
 
 ### Tag 4 – Refugio Alimonta – Refugio Al Cacciatore
 Dieser Tag ist wunderschön und schrecklich zugleich. Er beginnt toll und nimmt dann ein nicht so schönes Ende. Wir haben 
@@ -158,7 +158,7 @@ und nach Hause zu fahren, da der Weg bis zur nächsten Hütte nur ca. 4 Stunden 
 Mittag auf der Hütte zu hocken. Im Nachhinein eine blöde Entscheidung. Aber so ist es ja immer. Wir überqueren das 
 Plateau hinter der Alimonta-Hütte und nähern uns dem Sfulmini-Gletscher. 
 
-![](/assets/img/via-delle-bocchette-2017/19.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/19.JPG)
 
 Dieser Gletscher besteht im Gegensatz zum vorherigen Gletscher fast durchgehend aus glattem Eis und ist zudem recht 
 steil. Während wir auf dem anderen Gletscher größtenteils durch tiefen Schnee gewatet sind und uns an den Fußstapfen der 
@@ -169,15 +169,15 @@ angekommen, können wir direkt vor dem Einstieg in den Sentiero Bocchette Centra
 der die  anderen aufhält. Wir zu zweit sind da deutlich flotter unterwegs. Über mehrere Leitern und Felsstufen erreichen 
 wir ein langes ziemlich ausgesetztes Band.
 
-![](/assets/img/via-delle-bocchette-2017/20.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/20.JPG)
 
 Am Vormittag haben wir bestes Klettersteigwetter, und die Streckenführung ist wirklich spektakulär. Wir sind die ganze 
 Zeit über fast allein unterwegs. Irgendwo hinter uns hören  und sehen wir immer wieder die Franzosengruppe im Fels, aber 
 vor uns ist niemand zu sehen. Wir haben freie Bahn. Nach einiger Zeit kommen uns dann Wanderer von der nächsten Hütte 
 entgegen.
 
-![](/assets/img/via-delle-bocchette-2017/21.JPG)
-![](/assets/img/via-delle-bocchette-2017/22.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/21.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/22.JPG)
 
 Durch abwechslungsreiches und spannendes Gelände folgt eine Genusskletterei bis kurz vor dem Refugio Pedrotti-Tosa. Da 
 wir hier einen Schlafplatz reserviert haben, sagen wir kurz Bescheid, dass wir nicht bleiben und machen uns weiter auf 
@@ -207,8 +207,8 @@ Steig dann doch schwieriger. Für mich ist es kein Problem. Für René, der sein
 Abstieg zum d'Ambiez Gletscher nur schwer zu meistern. Es geht über Leitern und mit nur sehr kleinen Fußtritten an einer 
 nahezu senkrechten Wand entlang. Am Gletscher angelangt, machen wir in einer kleinen Felsnische eine Pause.
 
-![](/assets/img/via-delle-bocchette-2017/23.JPG)
-![](/assets/img/via-delle-bocchette-2017/24.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/23.JPG)
+![](/a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/24.JPG)
 
 Wir ziehen unsere Steigeisen an und kriechen über den relativ seicht abfallenden aber großen Gletscher weiter bergab. 
 Hinter dem Gletscher finden wir die Markierung wieder und das nächste Hinweischild bereitet uns die nächste 
