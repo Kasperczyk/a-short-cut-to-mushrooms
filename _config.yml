@@ -13,9 +13,10 @@ default_img:
 # Profile settings
 name: Christina Kasperczyk
 profile_img: profile.JPG
-profile: "Test"
+profile: "Test abc"
 social:
-  github: github.com/Kasperczyk/a-short-cut-to-mushrooms
+  github: https://github.com/Kasperczyk/a-short-cut-to-mushrooms
+  facebook: https://www.facebook.com/profile.php?id=100001162374016
 
 # Build settings
 markdown: kramdown
