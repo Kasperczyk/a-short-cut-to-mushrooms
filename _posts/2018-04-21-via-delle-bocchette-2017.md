@@ -5,8 +5,7 @@ date: 2018-03-27
 categories:
   - Italien
   - Alpen
-  - Hüttentour
-  - Wandern
+  - Huettentour
 description: Reisebericht Via delle Bocchette 2017
 image: /assets/img/via-delle-bocchette-2017/11.JPG
 image-sm: /assets/img/via-delle-bocchette-2017/11.JPG

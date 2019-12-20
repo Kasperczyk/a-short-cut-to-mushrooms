@@ -6,16 +6,16 @@ google_analytics:
 title: A Short Cut To Mushrooms
 description: A Short Cut To Mushrooms - Mein Trekking-, Wander- und Kletter-Blog
 url: ""
-baseurl: ""
+baseurl: "https://kasperczyk.github.io/a-short-cut-to-mushrooms"
 twitter_username: 
 default_img: 
 
 # Profile settings
-name: 
-profile_img: 
-profile:
+name: Christina Kasperczyk
+profile_img: profile.JPG
+profile: "Test"
 social:
-  github: 
+  github: github.com/Kasperczyk/a-short-cut-to-mushrooms
 
 # Build settings
 markdown: kramdown
