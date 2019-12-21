@@ -20,7 +20,11 @@ Other problems / things I might fix / do (or have my wife do if it affects the c
 - make images fit better on one viewport
 - ...
 
-# Copyright
+# Copyright concerning the content
+
+Copyright (c) 2019 Christina & Rene Kasperczyk
+
+# Copyright concerning the original Trophy theme
 
 MIT License
 
