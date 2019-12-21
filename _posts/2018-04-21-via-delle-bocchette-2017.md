@@ -13,7 +13,7 @@ image-sm: /a-short-cut-to-mushrooms/assets/img/via-delle-bocchette-2017/11.JPG
 ### Eckdaten
 **Was:** Dreitägige Hüttentour durch die Brenta<br/>
 **Wo:** Italien, Trentino, Brenta<br/>
-**Reisezeit:** Juli 2017<br/>
+**Reisezeit:** Juli 2017
 
 In diesem Sommer wollten wir mal ein relativ anspruchsvolle Bergtour mit relativ vielen Klettersteigen machen. Die Via 
 delle Bocchette besteht zu großen Teilen aus Klettersteigen und ist dennoch von der Schwierigkeit her eigentlich nie 
